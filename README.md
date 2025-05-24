@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deepesh Sengar</h1>
 <h3 align="center">Software Engineer @Microchip Technology, Norway</h3>
 
-- 🔭 P1: Global City Explorer (under dev) [Xploreus.com](www.Xploreus.com)
+- 🔭 P1: Global City Explorer (under dev) [Xploreus.com](https://www.Xploreus.com)
 
 - 🌱 I’m currently learning **Competitive Programming**
 
-- 👯 P2: Personal Finance Management tool [PlanUp.fyi](www.planup.fyi)
+- 👯 P2: Personal Finance Management tool [PlanUp.fyi](https://www.planup.fyi)
 
 - 👨‍💻 My LinkedIn: [https://www.linkedin.com/in/sengarDeepesh/](https://www.linkedin.com/in/sengarDeepesh/)
 
