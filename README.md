@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepesh Sengar</h1>
 <h3 align="center">Software Engineer @Microchip Technology, Norway</h3>
 
-- 🔭 P1: Global City Explorer (under dev) [Xploreus.com](https://www.Xploreus.com)
-
-- 🌱 I’m currently learning **Competitive Programming**
+- 🌱 I’m currently learning **DSA + LLD + HLD**
 
 - 👯 P2: Personal Finance Management tool [PlanUp.fyi](https://www.planup.fyi)
 
