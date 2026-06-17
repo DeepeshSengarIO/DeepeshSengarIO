@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepesh Sengar</h1>
-<h3 align="center">Software Engineer @Microchip Technology, Norway</h3>
+<h3 align="center">Software Engineer II @Microchip Technology, Norway</h3>
 
 - 🌱 I’m currently learning **DSA + LLD + HLD**
 
